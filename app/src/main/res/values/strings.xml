@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Managizer</string>
+    <string name="send_email">Send Email</string>
+    <string name="send_text">Send</string>
+    <string name="content_text">Content</string>
+    <string name="text_subject">Subject:</string>
+    <string name="text_to">To:</string>
+    <string name="view_staff_members">View Staff Members</string>
+</resources>
